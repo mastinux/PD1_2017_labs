@@ -1,0 +1,1 @@
+/home/mastinux/Scrivania/labs_pd1/panta.c
